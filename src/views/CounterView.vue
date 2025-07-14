@@ -8,16 +8,16 @@ const counter = useCounterStore()
   <div class="counter">
     <h1>Counter Example</h1>
     <p>This demonstrates Pinia state management</p>
-    
+
     <div class="counter-display">
       <h2>{{ counter.count }}</h2>
     </div>
-    
+
     <div class="counter-controls">
       <button @click="counter.decrement">-</button>
       <button @click="counter.increment">+</button>
     </div>
-    
+
     <p>Double count: {{ counter.doubleCount }}</p>
   </div>
 </template>

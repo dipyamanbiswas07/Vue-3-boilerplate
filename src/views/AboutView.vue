@@ -2,8 +2,8 @@
   <div class="about">
     <h1>This is an about page</h1>
     <p>
-      This is a Vue 3 boilerplate project built with TypeScript, Vite, Vue Router, and Pinia.
-      It includes modern development tools and best practices for Vue.js development.
+      This is a Vue 3 boilerplate project built with TypeScript, Vite, Vue Router, and Pinia. It
+      includes modern development tools and best practices for Vue.js development.
     </p>
     <h2>Features</h2>
     <ul>
